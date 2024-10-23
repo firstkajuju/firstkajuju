@@ -1,4 +1,4 @@
-👋 Hi, I’m Tom Kelvin!
+👋 Hi, I’m Tom Macharia!
 
 👀 I’m passionate about the automation of programming tasks and streamlining development workflows through the power of automation tools like Kubernetes (kubectl) and Docker.
 
